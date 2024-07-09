@@ -1,9 +1,9 @@
-# URBAN GLOW: Street Light Fault Detection and Control System
+# Street Light Fault Detection and Control System
 
 
 ## Description
 
-The **Urban Glow** is an **IoT-based** project designed to monitor and manage street lights automatically. The system detects faults in street lights and controls their operation based on the surrounding light conditions. The project utilizes an **ESP32** microcontroller, **LDR** sensors for light detection, and **Blynk** for real-time monitoring and control via a mobile application.
+The **Street Light Fault Detection and Control System** is an **IoT-based** project designed to monitor and manage street lights automatically. The system detects faults in street lights and controls their operation based on the surrounding light conditions. The project utilizes an **ESP32** microcontroller, **LDR** sensors for light detection, and **Blynk** for real-time monitoring and control via a mobile application.
 
 > [!NOTE]
 > This project aims to improve energy efficiency and reduce maintenance costs for street lighting systems.
