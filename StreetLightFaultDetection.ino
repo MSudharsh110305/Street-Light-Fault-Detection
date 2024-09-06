@@ -4,7 +4,7 @@
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
-// Define your Blynk Template ID and Auth Token here
+// Define your Blynk Template ID and Auth Token
 #define BLYNK_TEMPLATE_ID "Your_Template_ID"
 #define BLYNK_TEMPLATE_NAME "AUTOMATIC STREET LIGHT"
 #define BLYNK_AUTH_TOKEN "Your_Auth_Token"
